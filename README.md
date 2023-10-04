@@ -1,5 +1,4 @@
 # Svg-Logo-Generator
-# SVG logo generator
 
 [![alt badge](https://img.shields.io/badge/licence-MIT-blue)](https://opensource.org/license/mit/)
 
